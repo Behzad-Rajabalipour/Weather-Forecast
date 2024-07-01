@@ -5,7 +5,7 @@
 
 ## Live Preview
 
-#### [https://weather-forecast.behzadportfolio.com/](https://weather-forecast.behzadportfolio.com/) :point_left:
+### [https://weather-forecast.behzadportfolio.com/](https://weather-forecast.behzadportfolio.com/) :point_left:
 
 
 Landing Page:
