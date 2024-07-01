@@ -3,6 +3,9 @@
 
 ##### A weather app built with JavaScript that uses the OpenWeatherMap API, enabling users to search for and view the forecast in cities around the globe.
 
+#### [https://weather-forecast.behzadportfolio.com/](https://weather-forecast.behzadportfolio.com/) :point_left:
+
+
 Landing Page:
 ![screenshot](./assets/screenshot1.png)
 
@@ -22,10 +25,6 @@ Actual Weather:
 - HTML 
 - CSS
 - NPM
-
-## Live Preview
-
-#### [https://weather-forecast.behzadportfolio.com/](https://weather-forecast.behzadportfolio.com/) :point_left:
 
 ### Usage
 - To set up a local copy, follow these simple steps.
